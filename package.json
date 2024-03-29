@@ -1,7 +1,7 @@
 {
   "type": "module",
   "imports": {
-    "#root/*": "./*.js"
+    "#root/*": "./*"
   },
   "dependencies": {
     "esbuild": "0.20.2"

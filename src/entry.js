@@ -1,10 +1,10 @@
 // Works:
-import someFile from '#root/src/someFile'
+import someFile from '#root/src/someFile.js'
 
 /*
 // Works:
 import Page from './Page.vue'
 /*/
-// Doesn't work:
+// Works now:
 import Page from '#root/src/Page.vue'
 //*/
